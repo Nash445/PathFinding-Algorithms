@@ -1,8 +1,8 @@
 
 /*
-Dijkstra's Algorithm is finding shortest Path between 
-the two vertices specified or finding shortest path 
-from given source vertex to all other vertices.
+Definition -> Dijkstra's Algorithm is finding shortest Path between 
+              the two vertices specified or finding shortest path 
+              from given source vertex to all other vertices.
 
 Algorihtm -> (Implementing Using Adjaceny Matrix)
 step 1: input the graph in {vertex1,vertex2,edgeweight between vertex1 and vertex2}
